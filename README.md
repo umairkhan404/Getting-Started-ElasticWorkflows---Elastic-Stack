@@ -1,4 +1,3 @@
-# Getting-Started-ElasticWorkflows
 # 🚀 Hands-On Elastic Stack SIEM Lab | SOC Analyst L1
 
 <p align="center">
