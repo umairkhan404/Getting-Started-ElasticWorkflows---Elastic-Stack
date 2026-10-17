@@ -221,13 +221,6 @@ I will use this section to document evidence from my actual lab exercises.
 
 ## 🗺️ Future Lab Roadmap
 
-- [x] Install Elasticsearch and Kibana.
-- [x] Explore the Elastic Workflows interface.
-- [x] Create and execute basic workflow steps.
-- [x] Search sample web logs for HTTP `404` responses.
-- [x] Practice `if`, `wait`, and `foreach` flow control.
-- [ ] Integrate Windows security logs with Elastic.
-- [ ] Investigate Windows Event IDs `4624` and `4625` in Kibana.
 - [ ] Explore Elastic Security detection rules and alerts.
 - [ ] Build a suspicious-login investigation exercise.
 - [ ] Document a complete SOC L1 triage workflow.
