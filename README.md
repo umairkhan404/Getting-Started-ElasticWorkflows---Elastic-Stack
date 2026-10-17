@@ -242,7 +242,7 @@ I created this repository to document my progress, share practical learning, and
 
 🔗 **GitHub:** [uma irkhan404](https://github.com/umairkhan404)
 
-🔗 **TryHackMe:** [uma irkhan999](https://tryhackme.com/p/umairkhan999)
+🔗 **TryHackMe:** (https://tryhackme.com/p/umairkhan404?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=d3dbc27ede33&utm_source=copy&sharerId=65048ecc744df7c12333d854)
 
 ---
 
