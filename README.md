@@ -209,11 +209,6 @@ I will use this section to document evidence from my actual lab exercises.
 | Elasticsearch search | Query and matching documents |
 | Windows log investigation | Event details and corresponding Kibana events |
 
-Add your screenshots to a folder named `screenshots/` and embed them like this:
-
-```markdown
-![Elastic Workflow Execution](screenshots/workflow-execution.png)
-```
 
 ## 📚 Key Learning Takeaways
 
