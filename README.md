@@ -240,16 +240,24 @@ I use hands-on labs to strengthen my understanding of security monitoring, log a
 
 I created this repository to document my progress, share practical learning, and build a cybersecurity portfolio.
 
-🔗 **GitHub:** [uma irkhan404](https://github.com/umairkhan404)
+🔗 **GitHub:** [umairkhan404](https://github.com/umairkhan404)
+
+🔗 TryHackMe: umairkhan404 
 
 <p align="center">
   <a href="https://tryhackme.com/p/umairkhan404" target="_blank">
     <img
-      src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme"
-      alt="TryHackMe Profile"
+      src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
+      width="100"
+      alt="Visit My TryHackMe Profile"
     />
   </a>
+  <br>
+  <a href="https://tryhackme.com/p/umairkhan404">
+    <strong>🔐 Visit My TryHackMe Profile</strong>
+  </a>
 </p>
+
 ---
 
 <p align="center">
