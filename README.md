@@ -242,8 +242,14 @@ I created this repository to document my progress, share practical learning, and
 
 🔗 **GitHub:** [uma irkhan404](https://github.com/umairkhan404)
 
-🔗 **TryHackMe:** (https://tryhackme.com/p/umairkhan404?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=d3dbc27ede33&utm_source=copy&sharerId=65048ecc744df7c12333d854)
-
+<p align="center">
+  <a href="https://tryhackme.com/p/umairkhan404" target="_blank">
+    <img
+      src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme"
+      alt="TryHackMe Profile"
+    />
+  </a>
+</p>
 ---
 
 <p align="center">
